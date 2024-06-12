@@ -1,6 +1,6 @@
 # Tour Management System
 
-![Tour Management System](https://github.com/elif1906/tour-management-system/blob/main/tour-management.png)
+![Tour Management System](IMG_20220119_142657.jpg)
 
 ## Overview
 The Tour Management System is a project developed to streamline the management of tour-related operations. It is implemented using C++ and provides functionalities for managing bookings, cabs, customers, and tourists.
